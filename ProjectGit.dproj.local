@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/12/07 11:42:31.471,=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 11:42:53.628,D:\TFS\Test-YPAREO\test_git\Unit1.pas=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 11:42:53.628,D:\TFS\Test-YPAREO\test_git\Unit1.dfm=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2015/12/07 11:43:08.206,D:\TFS\Test-YPAREO\test_git\ProjectGit.dproj=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
