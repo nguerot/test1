@@ -13,4 +13,34 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Edit1: TEdit
+    Left = 272
+    Top = 112
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object CheckBox1: TCheckBox
+    Left = 136
+    Top = 88
+    Width = 97
+    Height = 17
+    Caption = 'CheckBox1'
+    TabOrder = 1
+  end
+  object ComboBox1: TComboBox
+    Left = 304
+    Top = 184
+    Width = 145
+    Height = 21
+    TabOrder = 2
+    Text = 'ComboBox1'
+    OnChange = ComboBox1Change
+    Items.Strings = (
+      'fdgld'
+      'fgsdkfjg'
+      'gfdsgdfgkdsopk'
+      'gfdlglkdflkglfdllffllfllrf')
+  end
 end
