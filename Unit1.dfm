@@ -43,4 +43,13 @@ object Form1: TForm1
       'gfdsgdfgkdsopk'
       'gfdlglkdflkglfdllffllfllrf')
   end
+  object Button1: TButton
+    Left = 32
+    Top = 200
+    Width = 171
+    Height = 25
+    Caption = 'Go to module 1'
+    TabOrder = 3
+    OnClick = Button1Click
+  end
 end

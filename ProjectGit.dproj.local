@@ -2,8 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2015/12/07 11:42:31.000.471,=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
-    <Transaction>2015/12/07 11:42:53.000.628,C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.pas=D:\TFS\Test-YPAREO\test_git\Unit1.pas</Transaction>
-    <Transaction>2015/12/07 11:42:53.000.628,C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.dfm=D:\TFS\Test-YPAREO\test_git\Unit1.dfm</Transaction>
-    <Transaction>2015/12/07 11:43:08.000.206,C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Project1.dproj=D:\TFS\Test-YPAREO\test_git\ProjectGit.dproj</Transaction>
+    <Transaction>2015/12/07 11:42:53.000.628,D:\TFS\Test-YPAREO\test_git\Unit1.dfm=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2015/12/07 11:42:53.000.628,D:\TFS\Test-YPAREO\test_git\Unit1.pas=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 11:43:08.000.206,D:\TFS\Test-YPAREO\test_git\ProjectGit.dproj=C:\Users\n.guerot\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2015/12/08 15:15:16.000.819,=D:\TFS\Test-YPAREO\test_git\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>
