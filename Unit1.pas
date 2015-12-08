@@ -11,7 +11,9 @@ type
     Edit1: TEdit;
     CheckBox1: TCheckBox;
     ComboBox1: TComboBox;
+    Button1: TButton;
     procedure ComboBox1Change(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
   private
     { Déclarations privées }
   public
@@ -20,10 +22,17 @@ type
 
 var
   Form1: TForm1;
+  //déclaration pour naviguer
 
 implementation
 
 {$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+//code pour naviguer
+//je navigue
+end;
 
 procedure TForm1.ComboBox1Change(Sender: TObject);
 begin

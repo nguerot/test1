@@ -13,4 +13,37 @@ object Form2: TForm2
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Memo1: TMemo
+    Left = 240
+    Top = 152
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 0
+  end
+  object GroupBox1: TGroupBox
+    Left = 280
+    Top = 48
+    Width = 185
+    Height = 105
+    Caption = 'GroupBox1'
+    TabOrder = 1
+  end
+  object CheckBox1: TCheckBox
+    Left = 120
+    Top = 120
+    Width = 97
+    Height = 17
+    Caption = 'CheckBox1'
+    TabOrder = 2
+  end
+  object Edit1: TEdit
+    Left = 56
+    Top = 184
+    Width = 121
+    Height = 21
+    TabOrder = 3
+    Text = 'Edit1'
+  end
 end
